@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://d9w.github.io/graphgpworkshop/"
 enableGitInfo = false                     # retrieve last modified date from git commits
 enableRobotsTXT = true                    # /robots.txt
 googleAnalytics = ""                      # google analytics id
