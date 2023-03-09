@@ -7,7 +7,7 @@ languageCode = "en"                       # content language
 paginate = 5                              # number of posts each page
 rssLimit = 10                             # maximum items in rss feeds
 theme = "hugo-theme-texify"               # theme directory name
-title = "Graph Genetic Programming Workshop" # website title
+title = "Graph-based Genetic Programming Workshop" # website title
 
 [author]
 email = "d9w@pm.me" # your email
@@ -54,7 +54,7 @@ tags = "tags"
 ########################
 
 [params]
-description = "Graph Genetic Programming Workshop" # website description
+description = "Graph-based Genetic Programming Workshop" # website description
 favicon = "favicon.ico" # path to website icon, relative to ./static
 footnote = "" # notes in the website footer
 keywords = ["hugo", "latex", "theme"] # website keywords
