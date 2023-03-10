@@ -10,6 +10,7 @@ dev:
 deploy:
 	hugo --gc --minify
 	git checkout gh-pages
+	git pull origin gh-pages
 	cp -rf public/* ./
 	git commit -am 'deploy'
 	git push origin gh-pages
