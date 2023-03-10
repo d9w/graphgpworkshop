@@ -6,6 +6,8 @@ draft: false
 
 # Program
 
+The workshop will have two invited talks on Graph-based Genetic Programming followed by a poster session of accepted workshop articles. Further details on the program coming soon.
+
 ## Invited Speakers
 
 **Wolfgang Banzhaf**
