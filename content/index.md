@@ -1,6 +1,6 @@
 ---
 title: "Graph-based Genetic Programming Workshop"
-date: 2023-03-09T19:13:10+01:00
+date: 2023-03-01
 draft: false
 ---
 

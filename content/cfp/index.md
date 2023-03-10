@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-date: 2023-03-09T19:25:07+01:00
+date: 2023-03-01
 draft: false
 ---
 
