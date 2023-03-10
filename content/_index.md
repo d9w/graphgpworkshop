@@ -4,7 +4,7 @@ date: 2023-03-01
 draft: false
 ---
 
-While the classical way to represent programs in Genetic Programming (GP) is using an expression tree, different GP variants with graph-based representations have been proposed. Graph-based representations have led to novel applications of GP in circuit design, cryptography, image analysis, and more. This workshop aims to encourage this form of GP by considering graph-based methods from a unified perspective and to bring together researchers in this subfield of GP research.
+While the classical way to represent programs in Genetic Programming (GP) is using an expression tree, different GP variants with graph-based representations have been proposed. Graph-based representations have led to novel applications of GP in circuit design, cryptography, image analysis, and more. This workshop aims to encourage this form of GP by considering graph-based methods from a unified perspective and to bringing together researchers in this subfield of GP research.
 
 The Graph-based GP Workshop will be held at [GECCO 2023](https://gecco-2023.sigevo.org/Workshops) in Lisbon in July 15-19, 2023.
 
