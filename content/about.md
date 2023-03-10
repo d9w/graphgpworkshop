@@ -11,22 +11,22 @@ The GECCO’22 graph-based GP tutorial launched an exchange among graph-based GP
 
 ## Organizers
 
-**Roman Kalkreuth**
+**Roman Kalkreuth**<br/>
 Natural Computing Group, Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands
 
-**Thomas Bäck**
+**Thomas Bäck**<br/>
 Natural Computing Group, Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands
 
-**Dennis Wilson**
-Institut Supérieur de l’Aéronautique et de l’Espace, University of Toulouse, France
+**Dennis Wilson**<br/>
+ISAE-Supaero, University of Toulouse, France
 
-**Paul Kaufmann**
+**Paul Kaufmann**<br/>
 Westphalian University of Applied Sciences, Germany
 
-**Léo Françoso Dal Piccol Sotto**
+**Léo Françoso Dal Piccol Sotto**<br/>
 Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), St. Augustin, Germany
 
-**Timothy Aktinson**
+**Timothy Aktinson**<br/>
 NNAISENSE, Lugano, Switzerland
 
 ## Contact
