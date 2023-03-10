@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://graphgp.com/sitemap.xml
