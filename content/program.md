@@ -10,9 +10,9 @@ The workshop will have two invited talks on Graph-based Genetic Programming foll
 
 ## Invited Speakers
 
-**Wolfgang Banzhaf**
+**Wolfgang Banzhaf**<br/>
 John R. Koza Chair for Genetic Programming, Department of Computer Science and Engineering,  Michigan State University, Michigan (USA)
 
-**Lukáš Sekanina**
+**Lukáš Sekanina**<br/>
 Professor for Computer Science, Head of Department
 Evolvable Hardware Research Group. Faculty of Information Technology, Department of Computer Systems, Brno University of Technology, Brno (Czech Republic) 
