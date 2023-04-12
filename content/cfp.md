@@ -18,8 +18,8 @@ For more informations, see the [GECCO workshop page](https://gecco-2023.sigevo.o
 
 The submission deadline for the Graph-based GP workshop has been extended to April 17, 2023.
 
-Submission opening: February 13, 2023
-Submission deadline: ~~April 14, 2023~~ April 17, 2023
-Notification: May 3, 2023
-Camera-ready: May 10, 2023
-Author's mandatory registration: May 10, 2023 
++ Submission opening: February 13, 2023
++ Submission deadline: ~~April 14, 2023~~ April 17, 2023
++ Notification: May 3, 2023
++ Camera-ready: May 10, 2023
++ Author's mandatory registration: May 10, 2023 
