@@ -13,3 +13,13 @@ Submitted papers must not exceed **4 pages**, excluding references, and must fol
 All accepted papers will appear in the GECCO Conference Companion Proceedings. As detailed in the [program](https://graphgp.com/program/), accepted works will be presented during a poster sesssion of the GGP workshop.
 
 For more informations, see the [GECCO workshop page](https://gecco-2023.sigevo.org/Call-for-Workshop-Papers).
+
+## Important Dates
+
+The submission deadline for the Graph-based GP workshop has been extended to April 17, 2023.
+
+Submission opening: February 13, 2023
+Submission deadline: ~~April 14, 2023~~ April 17, 2023
+Notification: May 3, 2023
+Camera-ready: May 10, 2023
+Author's mandatory registration: May 10, 2023 
