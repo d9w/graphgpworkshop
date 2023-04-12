@@ -9,6 +9,7 @@ dev:
 
 deploy:
 	hugo --gc --minify
+	cp CNAME public/
 	git checkout gh-pages
 	git pull origin gh-pages
 	cp -rf public/* ./
