@@ -6,13 +6,39 @@ draft: false
 
 # Program
 
-The workshop will have two invited talks on Graph-based Genetic Programming followed by a poster session of accepted workshop articles. Further details on the program coming soon.
+The workshop will have two invited talks on Graph-based Genetic Programming followed by a poster session of accepted workshop articles. We hope to foster interactive discussion during the poster session both in person and online using Whova and Zoom.
 
-## Invited Speakers
+Sunday, July 16 | Room : Madrid, F12 
+------------ | ----------------
+16:10 - 16:15 | **Welcome and Opening**<br/>Roman Kalkreuth, Dennis Wilson
+16:15 - 16:50 | **Are Linear GP and Graph GP Close Relatives?**<br/>Wolfgang Banzhaf
+16:50 - 17:25 | **Cartesian Genetic Programming in Electronic Design Automation**<br/>Lukáš Sekanina
+17:25 - 18:05 | Poster session
 
-**Wolfgang Banzhaf**<br/>
+## Invited Talks
+
+**Are Linear GP and Graph GP Close Relatives?**<br/>
+Wolfgang Banzhaf<br/>
 John R. Koza Chair for Genetic Programming, Department of Computer Science and Engineering,  Michigan State University, Michigan (USA)
 
-**Lukáš Sekanina**<br/>
+In this talk we shall discuss the relation between linear
+and graph-based GP. While at the surface quite different
+in structure and behavior the talk aims to explain their
+close relationship, a recognition that can benefit both
+representations. 
+
+**Cartesian Genetic Programming in Electronic Design Automation**<br/>
+Lukáš Sekanina<br/>
 Professor for Computer Science, Head of Department
 Evolvable Hardware Research Group. Faculty of Information Technology, Department of Computer Systems, Brno University of Technology, Brno (Czech Republic) 
+
+## Accepted Posters
+
+**Graph-Based Mutations for Music Generation**<br/>
+Maziar Kanani, Seán O’Leary, James McDermott
+
+**GPStar4: A flexible framework for experimenting with genetic programming**<br/>
+Julien Amblard, Robert Filman, Gabriel Kopito
+
+**Evolving Graphs with Cartesian Genetic Programming with Lexicase Selection**<br/>
+Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc
