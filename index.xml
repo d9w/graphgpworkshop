@@ -28,10 +28,50 @@ NNAISENSE, Lugano, Switzerland&lt;/p>
 &lt;li>Camera-ready: May 10, 2023&lt;/li>
 &lt;li>Author&amp;rsquo;s mandatory registration: May 10, 2023&lt;/li>
 &lt;/ul></description></item><item><title>Program</title><link>https://graphgp.com/program/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/program/</guid><description>&lt;h1 id="program">Program&lt;/h1>
-&lt;p>The workshop will have two invited talks on Graph-based Genetic Programming followed by a poster session of accepted workshop articles. Further details on the program coming soon.&lt;/p>
-&lt;h2 id="invited-speakers">Invited Speakers&lt;/h2>
-&lt;p>&lt;strong>Wolfgang Banzhaf&lt;/strong>&lt;br/>
+&lt;p>The workshop will have two invited talks on Graph-based Genetic Programming followed by a poster session of accepted workshop articles. We hope to foster interactive discussion during the poster session both in person and online using Whova and Zoom.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sunday, July 16&lt;/th>
+&lt;th>Room : Madrid, F12&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>16:10 - 16:15&lt;/td>
+&lt;td>&lt;strong>Welcome and Opening&lt;/strong>&lt;br/>Roman Kalkreuth, Dennis Wilson&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16:15 - 16:50&lt;/td>
+&lt;td>&lt;strong>Are Linear GP and Graph GP Close Relatives?&lt;/strong>&lt;br/>Wolfgang Banzhaf&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16:50 - 17:25&lt;/td>
+&lt;td>&lt;strong>Cartesian Genetic Programming in Electronic Design Automation&lt;/strong>&lt;br/>Lukáš Sekanina&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17:25 - 18:05&lt;/td>
+&lt;td>Poster session&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="invited-talks">Invited Talks&lt;/h2>
+&lt;p>&lt;strong>Are Linear GP and Graph GP Close Relatives?&lt;/strong>&lt;br/>
+Wolfgang Banzhaf&lt;br/>
 John R. Koza Chair for Genetic Programming, Department of Computer Science and Engineering, Michigan State University, Michigan (USA)&lt;/p>
-&lt;p>&lt;strong>Lukáš Sekanina&lt;/strong>&lt;br/>
+&lt;p>In this talk we shall discuss the relation between linear
+and graph-based GP. While at the surface quite different
+in structure and behavior the talk aims to explain their
+close relationship, a recognition that can benefit both
+representations.&lt;/p>
+&lt;p>&lt;strong>Cartesian Genetic Programming in Electronic Design Automation&lt;/strong>&lt;br/>
+Lukáš Sekanina&lt;br/>
 Professor for Computer Science, Head of Department
-Evolvable Hardware Research Group. Faculty of Information Technology, Department of Computer Systems, Brno University of Technology, Brno (Czech Republic)&lt;/p></description></item></channel></rss>
+Evolvable Hardware Research Group. Faculty of Information Technology, Department of Computer Systems, Brno University of Technology, Brno (Czech Republic)&lt;/p>
+&lt;h2 id="accepted-posters">Accepted Posters&lt;/h2>
+&lt;p>&lt;strong>Graph-Based Mutations for Music Generation&lt;/strong>&lt;br/>
+Maziar Kanani, Seán O’Leary, James McDermott&lt;/p>
+&lt;p>&lt;strong>GPStar4: A flexible framework for experimenting with genetic programming&lt;/strong>&lt;br/>
+Julien Amblard, Robert Filman, Gabriel Kopito&lt;/p>
+&lt;p>&lt;strong>Evolving Graphs with Cartesian Genetic Programming with Lexicase Selection&lt;/strong>&lt;br/>
+Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc&lt;/p></description></item></channel></rss>
