@@ -71,7 +71,21 @@ Evolvable Hardware Research Group. Faculty of Information Technology, Department
 &lt;h2 id="accepted-posters">Accepted Posters&lt;/h2>
 &lt;p>&lt;strong>Graph-Based Mutations for Music Generation&lt;/strong>&lt;br/>
 Maziar Kanani, Seán O’Leary, James McDermott&lt;/p>
+&lt;video height="400px" autoplay loop controls>
+&lt;source src="kanani.mp4" type="video/mp4">
+&lt;/video>
 &lt;p>&lt;strong>GPStar4: A flexible framework for experimenting with genetic programming&lt;/strong>&lt;br/>
-Julien Amblard, Robert Filman, Gabriel Kopito&lt;/p>
+Julien Amblard, Robert Filman, Gabriel Kopito&lt;br/>
+&lt;a href="amblard.pdf">poster&lt;/a>&lt;/p>
+&lt;video height="400px" autoplay loop controls>
+&lt;source src="amblard.mp4" type="video/mp4">
+&lt;/video>
 &lt;p>&lt;strong>Evolving Graphs with Cartesian Genetic Programming with Lexicase Selection&lt;/strong>&lt;br/>
-Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc&lt;/p></description></item></channel></rss>
+Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc&lt;br/>
+&lt;a href="lavinas.pdf">poster&lt;/a>&lt;/p>
+&lt;video height="400px" autoplay loop controls>
+&lt;source src="lavinas.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>&lt;strong>Towards a General Boolean Function Benchmark Suite&lt;/strong> (invited poster)&lt;br/>
+Roman Kalkreuth, Zdeněk Vašíček, Jakub Husa, Diederick Vermetten, Furong Ye and Thomas Bäck
+&lt;a href="kalkreuth.pdf">poster&lt;/a>&lt;/p></description></item></channel></rss>
