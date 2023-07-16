@@ -41,6 +41,7 @@ Maziar Kanani, Seán O’Leary, James McDermott
 <source src="kanani.mp4" type="video/mp4">
 </video>
 
+<br/>
 
 **GPStar4: A flexible framework for experimenting with genetic programming**<br/>
 Julien Amblard, Robert Filman, Gabriel Kopito<br/>
@@ -50,6 +51,8 @@ Julien Amblard, Robert Filman, Gabriel Kopito<br/>
 <source src="amblard.mp4" type="video/mp4">
 </video>
 
+<br/>
+
 **Evolving Graphs with Cartesian Genetic Programming with Lexicase Selection**<br/>
 Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc<br/>
 [poster](lavinas.pdf)
@@ -58,6 +61,8 @@ Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc<br/>
 <source src="lavinas.mp4" type="video/mp4">
 </video>
 
+<br/>
+
 **Towards a General Boolean Function Benchmark Suite** (invited poster)<br/>
-Roman Kalkreuth, Zdeněk Vašíček, Jakub Husa, Diederick Vermetten, Furong Ye and Thomas Bäck
+Roman Kalkreuth, Zdeněk Vašíček, Jakub Husa, Diederick Vermetten, Furong Ye and Thomas Bäck<br/>
 [poster](kalkreuth.pdf)
