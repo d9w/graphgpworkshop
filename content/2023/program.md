@@ -1,6 +1,7 @@
 ---
 title: "Program"
 date: 2023-03-01
+url: "/2023/program/"
 draft: false
 ---
 
