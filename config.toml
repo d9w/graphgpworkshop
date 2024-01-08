@@ -43,20 +43,24 @@ name = "About"
 url = "/about"
 weight = 4
 [[menu.main]]
+identifier = "previous"
+name = "Previous Editions"
+weight = 5
+[[menu.main]]
 name = "Call for Papers - 2023 Edition"
 url = “/2023/cfp”
 weight = 1
-parent = "Previous Edition"
+parent = "previous"
 [[menu.main]]
 name = "Program - 2023 Edition"
 url = “/2023/program”
 weight = 2
-parent = "Previous Edition"
+parent = "previous"
 [[menu.main]]
 name = "About - 2023 Edition"
 url = “/2023/about”
 weight = 3
-parent = "Previous Edition"
+parent = "previous"
 
 # https://gohugo.io/content-management/taxonomies#configure-taxonomies
 [taxonomies]
