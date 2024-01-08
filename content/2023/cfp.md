@@ -1,6 +1,7 @@
 ---
 title: "Call for Papers"
 date: 2023-03-01
+url: "/2023/cfp/"
 draft: false
 ---
 
