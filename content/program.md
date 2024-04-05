@@ -20,4 +20,3 @@ This proposition shares a lot of ideas from graph-based neural architecture sear
 
 # Oral presentations
 List of accepted papers will be announced on May 3rd, 2024.
-
