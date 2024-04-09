@@ -1,8 +1,146 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graph-based Genetic Programming Workshop</title><link>https://graphgp.com/</link><description>Recent content on Graph-based Genetic Programming Workshop</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>d9w@pm.me (Dennis Wilson)</managingEditor><webMaster>d9w@pm.me (Dennis Wilson)</webMaster><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graphgp.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://graphgp.com/2023/about/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/2023/about/</guid><description>About The GECCO’22 graph-based GP tutorial launched an exchange among graph-based GP researchers. Given the positive outcome of the tutorial, the organizers hope that the first workshop on graph-based GP at GECCO’23 will be an opportunity to promote the further development of visions and the exchange of ideas around graph-based GP.
-Organizers Roman Kalkreuth Natural Computing Group, Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands
-Thomas Bäck Natural Computing Group, Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands</description></item><item><title>Call for Papers</title><link>https://graphgp.com/2023/cfp/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/2023/cfp/</guid><description>Call for Papers We invite submissions that present recent developments in graph-based Genetic Programming. The content of the submission must be either new original work or discuss new perspectives on recently published work. Submitting work that is in an early stage or in progress is welcomed and appreciated.
-Submitted papers must not exceed 4 pages, excluding references, and must follow the GECCO style guidelines. Articles must be submitted using the GECCO submission site, using the &amp;ldquo;Workshop Paper&amp;rdquo; submission form.</description></item><item><title>Call for Papers</title><link>https://graphgp.com/cfp/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/cfp/</guid><description>Call for Papers We invite submissions that present recent developments in graph-based Genetic Programming. The content of the submission must be either new original work or discuss new perspectives on recently published work. Submitting work that is in an early stage or in progress is welcomed and appreciated.
-Submitted papers must not exceed 4 pages, excluding references, and must follow the GECCO style guidelines. Articles must be submitted using the GECCO submission site, using the &amp;ldquo;Workshop Paper&amp;rdquo; submission form.</description></item><item><title>Program</title><link>https://graphgp.com/2023/program/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/2023/program/</guid><description>Program The workshop will have two invited talks on Graph-based Genetic Programming followed by a poster session of accepted workshop articles. We hope to foster interactive discussion during the poster session both in person and online using Whova and Zoom.
-Sunday, July 16 Room : Madrid, F12 16:10 - 16:15 Welcome and OpeningRoman Kalkreuth, Dennis Wilson 16:15 - 16:50 Are Linear GP and Graph GP Close Relatives?Wolfgang Banzhaf 16:50 - 17:25 Cartesian Genetic Programming in Electronic Design AutomationLukáš Sekanina 17:25 - 18:05 Poster session Invited Talks Are Linear GP and Graph GP Close Relatives?</description></item><item><title>Program</title><link>https://graphgp.com/program/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/program/</guid><description>Program The workshop will start with an introduction tutorial, followed by an invited talk and by the oral presentations of accepted workshop articles. More details on the program will follow.
-Introductory tutorial In this brief tutorial, participants will receive an overview of Graph-based Genetic Programming (GGP). The session will cover fundamental concepts, methodologies, and potential applications across different domains. Additionally, we will explore popular code frameworks used in GGP implementations, highlighting their key features and functionalities.</description></item><item><title>About</title><link>https://graphgp.com/about/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/about/</guid><description>About The GECCO'22 graph-based GP tutorial launched an exchange among graph-based GP researchers. Following this, the first edition of the Graph-based GP Workshop was held at GECCO'23. With over 40 participants, two invited speakers, four submissions, and three accepted posters, the GECCO'23 workshop was a success. We hope that continuing this workshop at GECCO'24 will promote the further the development of and the exchange of ideas around graph-based GP.
-Organizers Dennis G.</description></item><item><title>Previous Editions</title><link>https://graphgp.com/previous/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/previous/</guid><description>Previous Editions 2023 Call for Papers Program About</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graph-based Genetic Programming Workshop</title><link>https://graphgp.com/</link><description>Recent content on Graph-based Genetic Programming Workshop</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>d9w@pm.me (Dennis Wilson)</managingEditor><webMaster>d9w@pm.me (Dennis Wilson)</webMaster><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graphgp.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://graphgp.com/2023/about/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/2023/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
+&lt;p>The GECCO’22 graph-based GP tutorial launched an exchange among graph-based GP researchers. Given the positive outcome of the tutorial, the organizers hope that the first workshop on graph-based GP at GECCO’23 will be an opportunity to promote the further development of visions and the exchange of ideas around graph-based GP.&lt;/p>
+&lt;h2 id="organizers">Organizers&lt;/h2>
+&lt;p>&lt;strong>Roman Kalkreuth&lt;/strong>&lt;br/>
+Natural Computing Group, Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands&lt;/p>
+&lt;p>&lt;strong>Thomas Bäck&lt;/strong>&lt;br/>
+Natural Computing Group, Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands&lt;/p>
+&lt;p>&lt;strong>Dennis Wilson&lt;/strong>&lt;br/>
+ISAE-Supaero, University of Toulouse, France&lt;/p>
+&lt;p>&lt;strong>Paul Kaufmann&lt;/strong>&lt;br/>
+Westphalian University of Applied Sciences, Germany&lt;/p>
+&lt;p>&lt;strong>Léo Françoso Dal Piccol Sotto&lt;/strong>&lt;br/>
+Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), St. Augustin, Germany&lt;/p>
+&lt;p>&lt;strong>Timothy Aktinson&lt;/strong>&lt;br/>
+NNAISENSE, Lugano, Switzerland&lt;/p>
+&lt;h2 id="contact">Contact&lt;/h2>
+&lt;p>To contact the workshop organization committee, email &lt;a href="mailto:r.t.kalkreuth@liacs.leidenuniv.nl">Roman&lt;/a> and &lt;a href="mailto:dennis.wilson@isae.fr">Dennis&lt;/a>.&lt;/p></description></item><item><title>Call for Papers</title><link>https://graphgp.com/2023/cfp/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/2023/cfp/</guid><description>&lt;h1 id="call-for-papers">Call for Papers&lt;/h1>
+&lt;p>We invite submissions that present recent developments in graph-based Genetic Programming. The content of the submission must be either new original work or discuss new perspectives on recently published work. Submitting work that is in an early stage or in progress is welcomed and appreciated.&lt;/p>
+&lt;p>Submitted papers must not exceed &lt;strong>4 pages&lt;/strong>, excluding references, and must follow the &lt;a href="https://gecco-2023.sigevo.org/Paper-Submission-Instructions">GECCO style guidelines&lt;/a>. Articles must be submitted using the &lt;a href="https://ssl.linklings.net/conferences/gecco/">GECCO submission site&lt;/a>, using the &amp;ldquo;Workshop Paper&amp;rdquo; submission form.&lt;/p>
+&lt;p>All accepted papers will appear in the GECCO Conference Companion Proceedings. As detailed in the &lt;a href="https://graphgp.com/program/">program&lt;/a>, accepted works will be presented during a poster sesssion of the GGP workshop.&lt;/p>
+&lt;p>For more informations, see the &lt;a href="https://gecco-2023.sigevo.org/Call-for-Workshop-Papers">GECCO workshop page&lt;/a>.&lt;/p>
+&lt;h2 id="important-dates">Important Dates&lt;/h2>
+&lt;p>The submission deadline for the Graph-based GP workshop has been extended to April 17, 2023.&lt;/p>
+&lt;ul>
+&lt;li>Submission opening: February 13, 2023&lt;/li>
+&lt;li>Submission deadline: &lt;del>April 14, 2023&lt;/del> April 17, 2023&lt;/li>
+&lt;li>Notification: May 3, 2023&lt;/li>
+&lt;li>Camera-ready: May 10, 2023&lt;/li>
+&lt;li>Author&amp;rsquo;s mandatory registration: May 10, 2023&lt;/li>
+&lt;/ul></description></item><item><title>Call for Papers</title><link>https://graphgp.com/cfp/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/cfp/</guid><description>&lt;h1 id="call-for-papers">Call for Papers&lt;/h1>
+&lt;p>We invite submissions that present recent developments in graph-based Genetic Programming.
+The content of the submission must be either new original work or discuss new perspectives on recently published work.
+Submitting work that is in an early stage or in progress is welcomed and appreciated.&lt;/p>
+&lt;p>Submitted papers must not exceed &lt;strong>4 pages&lt;/strong>, excluding references, and must follow the &lt;a href="https://gecco-2023.sigevo.org/Paper-Submission-Instructions">GECCO style guidelines&lt;/a>.
+Articles must be submitted using the &lt;a href="https://ssl.linklings.net/conferences/gecco/">GECCO submission site&lt;/a>, using the &amp;ldquo;Workshop Paper&amp;rdquo; submission form.&lt;/p>
+&lt;p>All accepted papers will appear in the GECCO Conference Companion Proceedings. As detailed in the &lt;a href="https://graphgp.com/program/">program&lt;/a>, accepted works will be orally presented during the GGP workshop.&lt;/p>
+&lt;p>For more information, see the &lt;a href="https://gecco-2024.sigevo.org/Call-for-Workshop-Papers">GECCO workshop page&lt;/a>.&lt;/p>
+&lt;h2 id="important-dates">Important Dates&lt;/h2>
+&lt;ul>
+&lt;li>Submission opening: February 12, 2024&lt;/li>
+&lt;li>Submission deadline: &lt;del>April 8, 2024&lt;/del> &lt;strong>April 12, 2024&lt;/strong>&lt;/li>
+&lt;li>Notification: May 3, 2024&lt;/li>
+&lt;li>Camera-ready: May 10, 2024&lt;/li>
+&lt;li>Author&amp;rsquo;s mandatory registration: TBD&lt;/li>
+&lt;/ul></description></item><item><title>Program</title><link>https://graphgp.com/2023/program/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/2023/program/</guid><description>&lt;h1 id="program">Program&lt;/h1>
+&lt;p>The workshop will have two invited talks on Graph-based Genetic Programming followed by a poster session of accepted workshop articles. We hope to foster interactive discussion during the poster session both in person and online using Whova and Zoom.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sunday, July 16&lt;/th>
+&lt;th>Room : Madrid, F12&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>16:10 - 16:15&lt;/td>
+&lt;td>&lt;strong>Welcome and Opening&lt;/strong>&lt;br/>Roman Kalkreuth, Dennis Wilson&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16:15 - 16:50&lt;/td>
+&lt;td>&lt;strong>Are Linear GP and Graph GP Close Relatives?&lt;/strong>&lt;br/>Wolfgang Banzhaf&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16:50 - 17:25&lt;/td>
+&lt;td>&lt;strong>Cartesian Genetic Programming in Electronic Design Automation&lt;/strong>&lt;br/>Lukáš Sekanina&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17:25 - 18:05&lt;/td>
+&lt;td>Poster session&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="invited-talks">Invited Talks&lt;/h2>
+&lt;p>&lt;strong>Are Linear GP and Graph GP Close Relatives?&lt;/strong>&lt;br/>
+Wolfgang Banzhaf&lt;br/>
+John R. Koza Chair for Genetic Programming, Department of Computer Science and Engineering, Michigan State University, Michigan (USA)&lt;/p>
+&lt;p>In this talk we shall discuss the relation between linear
+and graph-based GP. While at the surface quite different
+in structure and behavior the talk aims to explain their
+close relationship, a recognition that can benefit both
+representations.&lt;/p>
+&lt;p>&lt;strong>Cartesian Genetic Programming in Electronic Design Automation&lt;/strong>&lt;br/>
+Lukáš Sekanina&lt;br/>
+Professor for Computer Science, Head of Department
+Evolvable Hardware Research Group. Faculty of Information Technology, Department of Computer Systems, Brno University of Technology, Brno (Czech Republic)&lt;/p>
+&lt;h2 id="accepted-posters">Accepted Posters&lt;/h2>
+&lt;p>&lt;strong>Graph-Based Mutations for Music Generation&lt;/strong>&lt;br/>
+Maziar Kanani, Seán O’Leary, James McDermott&lt;/p>
+&lt;video height="200px" autoplay loop controls>
+&lt;source src="kanani.mp4" type="video/mp4">
+&lt;/video>
+&lt;br/>
+&lt;p>&lt;strong>GPStar4: A flexible framework for experimenting with genetic programming&lt;/strong>&lt;br/>
+Julien Amblard, Robert Filman, Gabriel Kopito&lt;br/>
+&lt;a href="amblard.pdf">poster&lt;/a>&lt;/p>
+&lt;video height="200px" autoplay loop controls>
+&lt;source src="amblard.mp4" type="video/mp4">
+&lt;/video>
+&lt;br/>
+&lt;p>&lt;strong>Evolving Graphs with Cartesian Genetic Programming with Lexicase Selection&lt;/strong>&lt;br/>
+Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc&lt;br/>
+&lt;a href="lavinas.pdf">poster&lt;/a>&lt;/p>
+&lt;video height="200px" autoplay loop controls>
+&lt;source src="lavinas.mp4" type="video/mp4">
+&lt;/video>
+&lt;br/>
+&lt;p>&lt;strong>Towards a General Boolean Function Benchmark Suite&lt;/strong> (invited poster)&lt;br/>
+Roman Kalkreuth, Zdeněk Vašíček, Jakub Husa, Diederick Vermetten, Furong Ye and Thomas Bäck&lt;br/>
+&lt;a href="kalkreuth.pdf">poster&lt;/a>&lt;/p></description></item><item><title>Program</title><link>https://graphgp.com/program/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/program/</guid><description>&lt;h1 id="program">Program&lt;/h1>
+&lt;p>The workshop will start with an introduction tutorial, followed by an invited talk and by the oral presentations of accepted workshop articles.
+More details on the program will follow.&lt;/p>
+&lt;h2 id="introductory-tutorial">Introductory tutorial&lt;/h2>
+&lt;p>In this brief tutorial, participants will receive an overview of Graph-based Genetic Programming (GGP).
+The session will cover fundamental concepts, methodologies, and potential applications across different domains.
+Additionally, we will explore popular code frameworks used in GGP implementations, highlighting their key features and functionalities.&lt;/p>
+&lt;h2 id="invited-talk-evolutionary-optimization-of-model-merging-recipes">Invited talk: &amp;ldquo;Evolutionary Optimization of Model Merging Recipes&amp;rdquo;&lt;/h2>
+&lt;p>With the increased diffusion of large and diverse models, &lt;a href="https://sakana.ai/evolutionary-model-merge/">Evolutionary Model Merge&lt;/a> is proposed as a general method that uses evolutionary techniques to efficiently discover the best ways to combine different models with diverse capabilities, using ideas similar to graph-based neural architecture search.&lt;/p>
+&lt;h1 id="oral-presentations">Oral presentations&lt;/h1>
+&lt;p>List of accepted papers will be announced on May 3rd, 2024.&lt;/p></description></item><item><title>About</title><link>https://graphgp.com/about/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
+&lt;p>The GECCO'22 graph-based GP tutorial launched an exchange among graph-based GP researchers.
+Following this, the first edition of the Graph-based GP Workshop was held at GECCO'23.
+With over 40 participants, two invited speakers, four submissions, and three accepted posters, the GECCO'23 workshop was a success.
+We hope that continuing this workshop at GECCO'24 will promote the further the development of and the exchange of ideas around graph-based GP.&lt;/p>
+&lt;h2 id="organizers">Organizers&lt;/h2>
+&lt;p>&lt;strong>Dennis G. Wilson&lt;/strong>&lt;br/>
+ISAE-Supaero, University of Toulouse, France&lt;/p>
+&lt;p>&lt;strong>Roman Kalkreuth&lt;/strong>&lt;br/>
+Sorbonne University, France&lt;/p>
+&lt;p>&lt;strong>Eric Medvet&lt;/strong>&lt;br/>
+University of Trieste, Italy&lt;/p>
+&lt;p>&lt;strong>Giorgia Nadizar&lt;/strong>&lt;br/>
+University of Trieste, Italy&lt;/p>
+&lt;p>&lt;strong>Giovanni Squillero&lt;/strong>&lt;br/>
+Politecnico di Torino, Italy&lt;/p>
+&lt;p>&lt;strong>Alberto Tonda&lt;/strong>&lt;br/>
+Université Paris-Saclay, INRAE, France&lt;/p>
+&lt;p>&lt;strong>Yuri Lavinas&lt;/strong>&lt;br/>
+IRIT, University of Toulouse, France&lt;/p>
+&lt;h2 id="contact">Contact&lt;/h2>
+&lt;p>To contact the workshop organization committee, email &lt;a href="mailto:roman.kalkreuth@lip6.fr">Roman&lt;/a> and &lt;a href="mailto:dennis.wilson@isae.fr">Dennis&lt;/a>.&lt;/p></description></item><item><title>Previous Editions</title><link>https://graphgp.com/previous/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/previous/</guid><description>&lt;h1 id="previous-editions">Previous Editions&lt;/h1>
+&lt;h2 id="2023">2023&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://graphgp.com/2023/cfp/">Call for Papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://graphgp.com/2023/program/">Program&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://graphgp.com/2023/about/">About&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
