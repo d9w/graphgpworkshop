@@ -15,7 +15,7 @@ The session will cover fundamental concepts, methodologies, and potential applic
 Additionally, we will explore popular code frameworks used in GGP implementations, highlighting their key features and functionalities.
 
 ## Invited talk: "Evolutionary Optimization of Model Merging Recipes"
-With the increased diffusion of large and diverse models, _Evolutionary Model Merge_ is proposed as a general method that uses evolutionary techniques to efficiently discover the best ways to combine different models with diverse capabilities, using ideas similar to graph-based neural architecture search.
+With the increased diffusion of large and diverse models, [Evolutionary Model Merge](https://sakana.ai/evolutionary-model-merge/) is proposed as a general method that uses evolutionary techniques to efficiently discover the best ways to combine different models with diverse capabilities, using ideas similar to graph-based neural architecture search.
 
 # Oral presentations
 List of accepted papers will be announced on May 3rd, 2024.

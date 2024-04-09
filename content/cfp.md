@@ -21,7 +21,7 @@ For more information, see the [GECCO workshop page](https://gecco-2024.sigevo.or
 ## Important Dates
 
 + Submission opening: February 12, 2024
-+ Submission deadline: April 8, 2024
++ Submission deadline: ~~April 8, 2024~~ **April 12, 2024**
 + Notification: May 3, 2024
 + Camera-ready: May 10, 2024
 + Author's mandatory registration: TBD
