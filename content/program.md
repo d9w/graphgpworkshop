@@ -6,13 +6,9 @@ draft: false
 ---
 
 # Program
-The workshop will start with an introduction tutorial, followed by an invited talk and by the oral presentations of accepted workshop articles.
+The workshop will start with the welcome and opening by the workshop organizers, followed by an invited talk and by the oral presentations of accepted workshop articles.
 More details on the program will follow.
 
-## Introductory tutorial
-In this brief tutorial, participants will receive an overview of Graph-based Genetic Programming (GGP). 
-The session will cover fundamental concepts, methodologies, and potential applications across different domains. 
-Additionally, we will explore popular code frameworks used in GGP implementations, highlighting their key features and functionalities.
 
 ## Invited talks
 
