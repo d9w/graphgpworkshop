@@ -117,9 +117,79 @@ Additionally, we will explore popular code frameworks used in GGP implementation
 &lt;h3 id="evolutionary-optimization-of-model-merging-recipes">&amp;ldquo;Evolutionary Optimization of Model Merging Recipes&amp;rdquo;&lt;/h3>
 &lt;p>With the increased diffusion of large and diverse models, &lt;a href="https://sakana.ai/evolutionary-model-merge/">Evolutionary Model Merge&lt;/a> is proposed as a general method that uses evolutionary techniques to efficiently discover the best ways to combine different models with diverse capabilities, using ideas similar to graph-based neural architecture search.&lt;/p>
 &lt;h3 id="evolutionary-robustness">&amp;ldquo;Evolutionary Robustness&amp;rdquo;&lt;/h3>
-&lt;p>William B. Langdon&lt;/p>
+&lt;p>&lt;a href="http://www.cs.ucl.ac.uk/staff/W.Langdon/">W. B. Langdon&lt;/a>&lt;/p>
 &lt;p>University College London, UK&lt;/p>
-&lt;h2 id="oral-presentations">Oral presentations&lt;/h2>
+&lt;p>Genetic programming (GP) and other types of Evolutionary Algorithms (EC)
+have long been demonstrated to be
+&lt;a href="https://cacm.acm.org/opinion/generating-trust/">
+creative&lt;/a>.
+A
+&lt;a href="https://gpbib.cs.ucl.ac.uk/gp-html/langdon_jaws30.html">recently&lt;/a>
+raised question
+was how much are they used?
+Data from the genetic programming
+&lt;a href="https://gpbib.cs.ucl.ac.uk/">bibliography&lt;/a>
+for last year suggests 38 ±5%
+of published papers are primarily on
+applications which just happen to use GP.
+Many applications relate to
+health, civil engineering or solid state materials,
+e.g. batteries.&lt;/p>
+&lt;p>Lenski et al&amp;rsquo;s studies of
+&lt;a href="https://en.wikipedia.org/wiki/E._coli_long-term_evolution_experiment">long term evolution&lt;/a>
+in biology show evolution can retain its ability
+for continued change even after 75,000 generations.
+Instead of 36 years,
+with performance effectively exceeding a
+&lt;a href="https://gpbib.cs.ucl.ac.uk/gp-html/langdon_2022_trillion.html">trillion&lt;/a>
+GP operations per second,
+GP experiments can be run to a
+&lt;a href="https://gpbib.cs.ucl.ac.uk/gp-html/Langdon_2022_ALJ.html">million&lt;/a>
+generations in weeks on a single computer.
+Information theory explains why
+in small populations, GP populations
+&lt;a href="https://gpbib.cs.ucl.ac.uk/gp-html/langdon_GPEM_gpconv.html">
+converge&lt;/a>
+and the rate of fitness improvement falls
+as huge GP trees become more robust to crossover.&lt;/p>
+&lt;a href="https://gpbib.cs.ucl.ac.uk/gp-html/langdon_2024_GI.html">
+Mutation testing&lt;/a> on C and C++ programs show
+that real software can also be robust to many source code changes.
+As with lisp functional language in tree GP,
+there is a tendency for deeply nested imperative code to be more robust.
+&lt;p>There are already examples of
+human written software systems that exceed a billion lines of
+(imperative)
+source code.
+Information theory&amp;rsquo;s failed disruption propagation
+&lt;a href="https://2021.esec-fse.org/details/fse-2021-ideas-visions-and-reflections/6/Software-Robustness-A-Survey-a-Theory-and-Prospects">(FDP)&lt;/a>
+helps to explain why maintaining, testing and debugging
+such deeply nested code repositories is hard
+and why software companies prefer unit testing of modules
+(each of which is typically only shallowly nested)
+rather than system testing of complete functional hierarchies.
+There is already SBSE work on automatically
+&lt;a href="https://doi.org/10.1145/2931037.2931062">optimizing&lt;/a> test oracles.
+FDP suggests systems should be built with many densely packed
+test agents so that disruption caused by bugs has
+little distance to travel before being discovered by an oracle.&lt;/p>
+&lt;p>For evolutionary computing and artificial life
+experiments aiming for sustained innovation,
+we propose the use of
+&lt;a href="http://www.cs.ucl.ac.uk/staff/W.Langdon/ei2024/langdon_ei2024.pdf">&amp;ldquo;mangrove&amp;rdquo;&lt;/a>
+architectures
+composed of many small trees which are intimate with their environment.
+For continuous innovative evolution the fitness function needs to
+be able to measure on average if genetic changes are good or not,
+or at least have made a difference.
+This means we must overcome robustness,
+without introducing chaos.
+We suggest this might be met by systems
+where the bulk of the code remains close to the fitness environment
+and the disruption caused by most
+mutations and crossovers has only a
+short depth to propagate in order to have a measurable fitness impact.&lt;/p>
+&lt;h2 id="oral-presentations-8-minutes-each">Oral presentations (8 minutes each)&lt;/h2>
 &lt;h3 id="byron-a-fuzzer-for-turing-complete-test-programs">Byron: A Fuzzer for Turing-complete Test Programs&lt;/h3>
 &lt;p>Marco Sacchet, Dimitri Masetta, Giovanni Squillero, Alberto Tonda&lt;/p>
 &lt;h3 id="directed-acyclic-program-graph-applied-to-supervised-classification">Directed Acyclic Program Graph Applied to Supervised Classification&lt;/h3>
