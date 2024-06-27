@@ -107,12 +107,8 @@ Yuri Lavinas, Kevin Cortacero, Sylvain Cussat-blanc&lt;br/>
 &lt;p>&lt;strong>Towards a General Boolean Function Benchmark Suite&lt;/strong> (invited poster)&lt;br/>
 Roman Kalkreuth, Zdeněk Vašíček, Jakub Husa, Diederick Vermetten, Furong Ye and Thomas Bäck&lt;br/>
 &lt;a href="kalkreuth.pdf">poster&lt;/a>&lt;/p></description></item><item><title>Program</title><link>https://graphgp.com/program/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><author>d9w@pm.me (Dennis Wilson)</author><guid>https://graphgp.com/program/</guid><description>&lt;h1 id="program">Program&lt;/h1>
-&lt;p>The workshop will start with an introduction tutorial, followed by an invited talk and by the oral presentations of accepted workshop articles.
+&lt;p>The workshop will start with the welcome and opening by the workshop organizers, followed by an invited talk and by the oral presentations of accepted workshop articles.
 More details on the program will follow.&lt;/p>
-&lt;h2 id="introductory-tutorial">Introductory tutorial&lt;/h2>
-&lt;p>In this brief tutorial, participants will receive an overview of Graph-based Genetic Programming (GGP).
-The session will cover fundamental concepts, methodologies, and potential applications across different domains.
-Additionally, we will explore popular code frameworks used in GGP implementations, highlighting their key features and functionalities.&lt;/p>
 &lt;h2 id="invited-talks">Invited talks&lt;/h2>
 &lt;h3 id="evolutionary-optimization-of-model-merging-recipes">&amp;ldquo;Evolutionary Optimization of Model Merging Recipes&amp;rdquo;&lt;/h3>
 &lt;p>With the increased diffusion of large and diverse models, &lt;a href="https://sakana.ai/evolutionary-model-merge/">Evolutionary Model Merge&lt;/a> is proposed as a general method that uses evolutionary techniques to efficiently discover the best ways to combine different models with diverse capabilities, using ideas similar to graph-based neural architecture search.&lt;/p>
