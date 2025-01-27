@@ -41,5 +41,9 @@ Université Toulouse Capitole, IRIT, University of Toulouse, France
 
 ## Contact
 
+<<<<<<< HEAD
 To contact the workshop organization committee, email [Roman](mailto:roman.kalkreuth@lip6.fr)and [Yuri](mailto:yuri.lavinas@ut-capitole.fr).
 
+=======
+To contact the workshop organization committee, email [Roman](mailto:roman.kalkreuth@lip6.fr) and [Dennis](mailto:dennis.wilson@isae.fr).
+>>>>>>> parent of a720c0f (test)
