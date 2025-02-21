@@ -4,14 +4,12 @@ enableRobotsTXT = true                    # /robots.txt
 googleAnalytics = ""                      # google analytics id
 hasCJKLanguage = true                     # Chinese/Japanese/Korean
 languageCode = "en"                       # content language
-paginate = 5                              # number of posts each page
 rssLimit = 10                             # maximum items in rss feeds
 theme = "hugo-theme-texify"               # theme directory name
 title = "Graph-based Genetic Programming Workshop" # website title
 
-[author]
-email = "d9w@pm.me" # your email
-name = "Dennis Wilson"          # your name
+[pagination]
+pagerSize = 5                              # number of posts each page
 
 # https://gohugo.io/getting-started/configuration-markup
 [markup]
@@ -59,6 +57,7 @@ tags = "tags"
 ########################
 
 [params]
+author = "Yuri Lavinas"
 description = "Graph-based Genetic Programming Workshop" # website description
 favicon = "favicon.ico" # path to website icon, relative to ./static
 footnote = "" # notes in the website footer
