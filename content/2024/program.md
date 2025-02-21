@@ -1,14 +1,13 @@
 ---
 title: "Program"
-date: 2025-01-27
+date: 2023-03-01
 url: "/program/"
 draft: false
 ---
 
 # Program
-TDB
-<!-- The workshop will start with the welcome and opening by the workshop organizers, followed by an invited talk and by the oral presentations of accepted workshop articles.
-More details on the program will follow. -->
+The workshop will start with the welcome and opening by the workshop organizers, followed by an invited talk and by the oral presentations of accepted workshop articles.
+More details on the program will follow.
 
 
 <!-- ## Invited talks
