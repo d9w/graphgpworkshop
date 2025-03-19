@@ -8,7 +8,9 @@ draft: false
 # Call for Papers
 
 We invite submissions that present recent developments in graph-based Genetic Programming. 
+
 The content of the submission must be either new original work or discuss new perspectives on recently published work. 
+
 Submitting work that is in an early stage or in progress is welcomed and appreciated.
 
 Submitted papers must not exceed **4 pages**, excluding references, and must follow the [GECCO style guidelines](https://gecco-2025.sigevo.org/Paper-Submission-Instructions). 
