@@ -23,7 +23,7 @@ For more information, see the [GECCO workshop page](https://gecco-2025.sigevo.or
 ## Important Dates
 
 + Submission opening: 10 February 2025 
-+ Submission deadline: 25 March 2025 
++ Submission deadline: ~~25 March 2025~~ 02 April 2025
 + Notification: 28 April 2025
 + Camera-ready: 5 May 2025
 + Author's mandatory registration: 8 May 2025
