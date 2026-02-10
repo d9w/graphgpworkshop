@@ -7,6 +7,11 @@ draft: false
 
 # Previous Editions
 
+## 2025
++ [Call for Papers](/2025/cfp/)
++ [Program](/2025/program/)
++ [About](/2025/about/)
+
 ## 2024
 + [Call for Papers](/2024/cfp/)
 + [Program](/2024/program/)
