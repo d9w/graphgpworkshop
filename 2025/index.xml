@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2025s on Graph-based Genetic Programming Workshop</title><link>https://graphgp.com/2025/</link><description>Recent content in 2025s on Graph-based Genetic Programming Workshop</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://graphgp.com/2025/index.xml" rel="self" type="application/rss+xml"/><item><title>Program</title><link>https://graphgp.com/2025/program/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://graphgp.com/2025/program/</guid><description>&lt;h1 id="program"&gt;Program&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://whova.com/portal/webapp/CLaCF4Vax5Yr4znoFfNi/Agenda/4707424"&gt;Program in Whova&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="keynote"&gt;Keynote&lt;/h2&gt;
+&lt;h3 id="everybody-wants-to-rule-the-benchmark-the-dangers-of-gp-leaderboard-chasing"&gt;&amp;ldquo;Everybody Wants to Rule the Benchmark: The Dangers of GP Leaderboard Chasing&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;Fabrício Olivetti De França&lt;/p&gt;
+&lt;p&gt;Professor of computer science at Federal University of ABC, located at the metropolitan region of São Paulo. Current research interests are symbolic regression, program synthesis, genetic programming and interpretability in ML.&lt;/p&gt;
+&lt;h2 id="oral-presentations"&gt;Oral presentations&lt;/h2&gt;
+&lt;h3 id="linear-genetic-programming-for-design-graph-neural-networks-for-node-classification"&gt;Linear Genetic Programming for Design Graph Neural Networks for Node Classification&lt;/h3&gt;
+&lt;p&gt;Maciej Krzywda, Szymon Łukasik, Amir H. Gandomi&lt;/p&gt;
+&lt;h3 id="towards-efficient-semantic-mutation-in-cgp-enhancing-somok"&gt;Towards Efficient Semantic Mutation in CGP: Enhancing SOMOk&lt;/h3&gt;
+&lt;p&gt;Lukas Plevac, Zdenek Vasicek&lt;/p&gt;
+&lt;h3 id="evolving-typed-token-processing-networks"&gt;Evolving Typed Token Processing Networks&lt;/h3&gt;
+&lt;p&gt;Berfin Sakallioglu, Giorgia Nadizar, Luca Manzoni, Eric Medvet&lt;/p&gt;
+&lt;h3 id="on-chromosome-crossover-in-multimodal-adaptive-graph-evolution"&gt;On Chromosome Crossover in Multimodal Adaptive Graph Evolution&lt;/h3&gt;
+&lt;p&gt;Camilo De La Torre, Sylvain Cussat-Blanc, Hervé Luga, Dennis Wilson, Yuri Lavinas&lt;/p&gt;</description></item><item><title>About</title><link>https://graphgp.com/2025/about/</link><pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><guid>https://graphgp.com/2025/about/</guid><description>&lt;h1 id="about"&gt;About&lt;/h1&gt;
+&lt;p&gt;The GECCO'22 graph-based GP tutorial launched an exchange among graph-based GP researchers.
+Following this, the first edition of the Graph-based GP Workshop was held at GECCO'23.
+With over 40 participants, two invited speakers, four submissions, and three accepted posters, the GECCO'23 workshop was a success.
+The second edition of the workshop, held at GECCO'24, was a similar success, with an hybrid format featuring two invited speakers and four accepted short papers (oral presentations).
+Continuing this workshop at GECCO'25 would promote the further the development of and the exchange of ideas around graph-based GP.&lt;/p&gt;
+&lt;h2 id="organizers"&gt;Organizers&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Yuri Lavinas&lt;/strong&gt;&lt;br/&gt;
+Université Toulouse Capitole, IRIT, University of Toulouse, France&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roman Kalkreuth&lt;/strong&gt;&lt;br/&gt;
+Sorbonne University, France&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eric Medvet&lt;/strong&gt;&lt;br/&gt;
+University of Trieste, Italy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Giorgia Nadizar&lt;/strong&gt;&lt;br/&gt;
+University of Trieste, Italy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Giovanni Squillero&lt;/strong&gt;&lt;br/&gt;
+Politecnico di Torino, Italy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alberto Tonda&lt;/strong&gt;&lt;br/&gt;
+Université Paris-Saclay, INRAE, France&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dennis G. Wilson&lt;/strong&gt;&lt;br/&gt;
+ISAE-Supaero, University of Toulouse, France&lt;/p&gt;
+&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
+&lt;p&gt;To contact the workshop organization committee, email &lt;a href="mailto:roman.kalkreuth@lip6.fr"&gt;Roman&lt;/a&gt;and &lt;a href="mailto:yuri.lavinas@ut-capitole.fr"&gt;Yuri&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Call for Papers</title><link>https://graphgp.com/2025/cfp/</link><pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><guid>https://graphgp.com/2025/cfp/</guid><description>&lt;h1 id="call-for-papers"&gt;Call for Papers&lt;/h1&gt;
+&lt;p&gt;We invite submissions that present recent developments in graph-based Genetic Programming.&lt;/p&gt;
+&lt;p&gt;The content of the submission must be either new original work or discuss new perspectives on recently published work.&lt;/p&gt;
+&lt;p&gt;Submitting work that is in an early stage or in progress is welcomed and appreciated.&lt;/p&gt;
+&lt;p&gt;Submitted papers must not exceed &lt;strong&gt;4 pages&lt;/strong&gt;, excluding references, and must follow the &lt;a href="https://gecco-2025.sigevo.org/Paper-Submission-Instructions"&gt;GECCO style guidelines&lt;/a&gt;.
+Articles must be submitted using the &lt;a href="https://ssl.linklings.net/conferences/gecco/"&gt;GECCO submission site&lt;/a&gt;, using the &amp;ldquo;Workshop Paper&amp;rdquo; submission form.&lt;/p&gt;
+&lt;p&gt;All accepted papers will appear in the GECCO Conference Companion Proceedings. As detailed in the &lt;a href="https://graphgp.com/program/"&gt;program&lt;/a&gt;, accepted works will be orally presented during the GGP workshop.&lt;/p&gt;
+&lt;p&gt;For more information, see the &lt;a href="https://gecco-2025.sigevo.org/Call-for-Workshop-Papers"&gt;GECCO workshop page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="important-dates"&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Submission opening: 10 February 2025&lt;/li&gt;
+&lt;li&gt;Submission deadline: &lt;del&gt;25 March 2025&lt;/del&gt; 02 April 2025&lt;/li&gt;
+&lt;li&gt;Notification: 28 April 2025&lt;/li&gt;
+&lt;li&gt;Camera-ready: 5 May 2025&lt;/li&gt;
+&lt;li&gt;Author&amp;rsquo;s mandatory registration: 8 May 2025&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
