@@ -1,7 +1,7 @@
 ---
 title: "Program"
 date: 2025-07-14
-url: "/program/"
+url: "/2025/program/"
 draft: false
 ---
 

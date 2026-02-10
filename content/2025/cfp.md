@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers"
 date: 2025-01-27
-url: "/cfp/"
+url: "/2025/cfp/"
 draft: false
 ---
 

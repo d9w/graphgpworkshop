@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-01-08
-url: "/about/"
+url: "/2024/about/"
 draft: false
 ---
 
