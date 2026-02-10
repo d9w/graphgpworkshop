@@ -7,4 +7,6 @@ draft: false
 
 # Program
 
-TBD.
+The workshop will feature invited presentations as well as oral presentations of accepted submissions.
+
+More details will be communicated later.
