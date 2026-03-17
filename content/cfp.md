@@ -23,7 +23,7 @@ For more information, see the [GECCO workshop page](https://gecco-2026.sigevo.or
 ## Important Dates
 
 + Submission opening: 2 February 2026 
-+ Submission deadline: 27 March 2026
++ Submission deadline: ~~27 March 2026~~ 3 April 2026
 + Notification: 24 April 2026
 + Camera-ready: 5 May 2026
 + Author's mandatory registration: 11 May 2026
